@@ -1,0 +1,5 @@
+{
+  "unit":1000,
+  "DepthImageTopic":"/camera/depth/image_rect_raw",
+  "PointCloudTopic":"/camera/depth/color/points"
+}
